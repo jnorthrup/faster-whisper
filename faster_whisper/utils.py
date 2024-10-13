@@ -26,6 +26,7 @@ _MODELS = {
     "distil-medium.en": "Systran/faster-distil-whisper-medium.en",
     "distil-small.en": "Systran/faster-distil-whisper-small.en",
     "distil-large-v3": "Systran/faster-distil-whisper-large-v3",
+    "large-v3-turbo": "deepdml/faster-whisper-large-v3-turbo-ct2",
 }
 
 
